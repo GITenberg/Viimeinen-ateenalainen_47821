@@ -1,9 +1,13 @@
 _repo: Viimeinen-ateenalainen_47821
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Tudeer, O. E.
     gutenberg_agent_id: '44483'
     url: http://www.gutenberg.org/2009/agents/44483
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rydberg, Viktor
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3156
     wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47821#Viimeinen-ateenalainen
 gutenberg_issued: '2014-12-30'
 gutenberg_type: Text
 identifiers:
